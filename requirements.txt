@@ -1,0 +1,5 @@
+pillow
+pywebio
+flask
+qrcode
+python-barcode
